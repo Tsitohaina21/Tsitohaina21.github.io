@@ -9,7 +9,7 @@ import dolibarrFront from "../assets/dolibarrFrontoffice.png";
 import myWallet from "../assets/wallet.png";
 import todo from "../assets/todo.png";
 import taxiBrousse from "../assets/taxibrousse.png";
-import profile from "../assets/Tsitohaina1.png";
+import profilpic from "../assets/Tsitohaina1.png";
 
 export const profile = {
   firstName: "Tsitohaina",
@@ -18,7 +18,7 @@ export const profile = {
   title: "Étudiant en Informatique – Développeur Full Stack",
   tagline:
     "Étudiant en informatique motivé, passionné par le développement web et les nouvelles technologies. Je recherche un stage afin de contribuer à des projets concrets tout en développant mes compétences techniques.",
-  photo: [profile], // src/assets/profile.png (photo extraite du CV)
+  photo: [profilpic], // src/assets/profile.png (photo extraite du CV)
   email: "tsitoramanamidona@gmail.com",
   phone: "032 76 495 78 / 034 20 370 95",
   address: "Lgt34 Cité des profs Andranovory",
