@@ -8,7 +8,7 @@ import dolibarrBack from "../assets/dolibarrBackoffice.png";
 import dolibarrFront from "../assets/dolibarrFrontoffice.png";
 import myWallet from "../assets/wallet.png";
 import todo from "../assets/todo.png";
-import taxiBrousse from "../assets/taxiBrousse.png";
+import taxiBrousse from "../assets/taxibrousse.png";
 
 export const profile = {
   firstName: "Tsitohaina",
