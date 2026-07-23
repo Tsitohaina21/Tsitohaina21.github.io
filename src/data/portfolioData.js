@@ -52,7 +52,6 @@ export const skills = {
     { name: "MySQL" },
     { name: "PostgreSQL" },
     { name: "SQLite" },
-    { name: "Oracle" },
   ],
   tools: [
     { name: "VS Code" },
